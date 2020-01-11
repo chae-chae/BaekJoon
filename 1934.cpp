@@ -6,6 +6,8 @@
 //  Copyright © 2020 chaechae. All rights reserved.
 //
 
+//  유클리드 호제법
+
 #include <stdio.h>
 int main(void){
     int t;
