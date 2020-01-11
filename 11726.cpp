@@ -11,7 +11,7 @@
 
 #include <stdio.h>
 
-int d[1001];
+int d[1001]; // d배열의 크기는 1001이상이어야함! 1<=N<=1000 이면 d[1000]이 존재해야 하기 때문!! 
 int calc(int n);
 int main(void){
     int n;
